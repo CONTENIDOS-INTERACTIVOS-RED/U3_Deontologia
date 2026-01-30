@@ -123,11 +123,6 @@ export default {
     },
     {
       referencia:
-        'García Nieto, M.T. (2012). Las Ciencias Sociales y la Responsabilidad Social Corporativa. aDResearch ESIC International Journal of Communication Research. 6, 6 (Jul. 2012), 92-111.',
-      link: 'https://doi.org/10.7263/ADR.RSC.006.05.',
-    },
-    {
-      referencia:
         'Camarán, M. L., Barón, M. L. & Rueda, M. P. (2019). La responsabilidad social empresarial y los objetivos de desarrollo sostenible (ODS). Revista Científica Teorías, Enfoques y Aplicaciones en las Ciencias Sociales, 11(24), 41-52.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=7013907',
     },
